@@ -6,9 +6,10 @@
 <h1>Connect me with</h1>
   
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Asadawn)
-
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/asadawn3)
-[![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAkM6667345)](https://twitter.com/asadawn3)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadwn3)
+[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/asadawn3)
+
 </div>
 <br />
 
