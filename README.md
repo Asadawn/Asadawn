@@ -21,11 +21,11 @@
 - 🏢 I'm have completed my graduation from BZU Multan;
 - 👨🏽‍💻 I’m currently working on Frontend development;
 - 🌱 I’m currently learning new tools and technologies...
-- 💬 Ping me about **Web Development**, **Bootstrap**, **Javascript**, **Tailwind**, **React**, **Open Source**, **etc**...
+- 💬 Ping me about **Web Development**, **Bootstrap**, **Javascript**, **Tailwind**, **React**, **Angular**, **Open Source**, **etc**...
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I love playing cricket and watching movies...
 - 📫 How to reach me: asadawan.dev@gmail.com;
-
+<img height="200" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular Logo" />
 <img height="200" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="200" align="right"  src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/javascript/javascript.png">
 
@@ -40,13 +40,14 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024' alt="bootstrap" width="auto" height="40">&nbsp;&nbsp;&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="auto" height="40"/>
+
   <br>
   <img width="auto" height="40" alt="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png?20160811101906">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png?20180806170715" alt="github" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757" alt="Sass" width="auto" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" alt="Figma" width="auto" height="40"/>
   <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1280px-Angular_full_color_logo.svg.png" alt="Angular" width="auto" height="50" />
  
   
 <p align="center">
